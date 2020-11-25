@@ -1,11 +1,16 @@
 _repo: The-Marquis-of-Letoriere_63852
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63852-h/images/cover.jpg
 creator:
   author:
     agent_name: Sue, Marie Joseph Eugène
     gutenberg_agent_id: '52637'
     url: http://www.gutenberg.org/2009/agents/52637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63852#The-Marquis-of-Letoriere
 gutenberg_issued: '2020-11-22'
 gutenberg_type: Text
 identifiers:
